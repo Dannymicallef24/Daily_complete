@@ -2,10 +2,6 @@
 # Daniel Micallef 
 # Commit_One
 
-Submission Feedback
-
-Overall Feedback
-
 Use of function 
 
 Correct Gui
